@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ch17-adding-power.iml" filepath="$PROJECT_DIR$/ch17-adding-power.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vfap-pricing-tool-dynamic-frontend.iml" filepath="$PROJECT_DIR$/vfap-pricing-tool-dynamic-frontend.iml" />
     </modules>
   </component>
 </project>

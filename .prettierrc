@@ -1,6 +1,6 @@
 {
   "singleQuote": true,
-  "printWidth": 150,
+  "printWidth": 130,
   "withNodeModules": true,
   "endOfLine": "auto",
   "tabWidth": 2,
